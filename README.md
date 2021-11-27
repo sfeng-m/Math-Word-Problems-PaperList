@@ -19,3 +19,13 @@ This is a paper list for math word problem. It also contains some related resear
   * Math23k, include 23161 problems. (Chinese)
 * Ape210K: A Large-Scale and Template-Rich Dataset of Math Word Problems, arxiv,  [[paper]](https://arxiv.org/abs/2009.11506)
   * Ape210K, include 210488 problems. (Chinese, largest)
+
+# Math Word Problem Solvers
+* Recall and Learn: A Memory-augmented Solver for Math Word Problems, EMNLP2021 Findings,  [[paper]](https://aclanthology.org/2021.findings-emnlp.68.pdf) [[code]](https://github.com/sfeng-m/REAL4MWP) 
+* Improving Math Word Problems with Pre-trained Knowledge and Hierarchical Reasoning, EMNLP2021, [[paper]](https://aclanthology.org/2021.emnlp-main.272.pdf)
+* An Edge-Enhanced Hierarchical Graph-to-Tree Network for Math Word Problem Solving, EMNLP2021 Findings, [[paper]](https://aclanthology.org/2021.findings-emnlp.127.pdf) [[code]](https://github.com/qinzhuowu/EEH_G2T)
+* Generate & Rank: A Multi-task Framework for Math Word Problems, EMNLP2021 Findings, [[paper]](https://aclanthology.org/2021.findings-emnlp.195.pdf)  [[code]](https://github.com/huawei-noah/noah-research)
+
+# Math Word Problem Generation
+* Math Word Problem Generation with Mathematical Consistency and Problem Context Constraints, EMNLP2021, [[paper]](https://aclanthology.org/2021.emnlp-main.484.pdf)
+* Adversarial Examples for Evaluating Math Word Problem Solvers, EMNLP2021 Findings, [[paper]](https://arxiv.org/pdf/2109.05925.pdf)  [[code]](https://github.com/kevivk/MWP_Adversarial)
