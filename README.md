@@ -62,3 +62,7 @@ This is a paper list for math word problem. It also contains some related resear
 # Geometry Problem Solvers
 * Inter-GPS: Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning, ACL2021, [[paper]](https://arxiv.org/pdf/2105.04165.pdf)  [[code]](https://github.com/lupantech/InterGPS)
 * GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning, ACL2021 Findings, [[paper]](https://aclanthology.org/2021.findings-acl.46.pdf)  [[code]](https://github.com/chen-judge/GeoQA)
+
+# Copyright
+Finished by Shifeng Huang (sfengmmin@163.com). \
+Welcome to open an issue or make a pull request!
