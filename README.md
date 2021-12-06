@@ -46,6 +46,7 @@ This is a paper list for math word problem. It also contains some related resear
 * The Gap of Semantic Parsing- A Survey on Automatic Math Word Problem Solvers, TPAMI2019, [[paper]](https://arxiv.org/pdf/1808.07290.pdf)
 * Translating a Math Word Problem to an Expression Tree, ACL2018, [[paper]](https://aclanthology.org/D18-1132.pdf)
 * A Meaning-based Statistical English Math Word Problem Solver, NAACL2018, [[paper]](https://aclanthology.org/N18-1060.pdf) [[code]](https://github.com/chaochun/nlu-mwp-noise-dataset)
+* MathDQN: Solving Arithmetic Word Problems via Deep Reinforcement Learning, AAAI2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16749/16111) [[code]](https://github.com/uestc-db/DQN_Word_Problem_Solver)
 * Mapping to Declarative Knowledge for Word Problem Solving, TACL2018, [[paper]](https://aclanthology.org/Q18-1012.pdf) [[code]](https://github.com/CogComp/arithmetic)
 * A Weakly Supervised Model for Solving Math word Problems, arxiv-2021, [[paper]](https://arxiv.org/pdf/2104.06722.pdf)
 * MWP-BERT: A Strong Baseline for Math Word Problems, arxiv-2021, [[paper]](https://arxiv.org/pdf/2107.13435.pdf)
