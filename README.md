@@ -24,6 +24,7 @@ This is a paper list for math word problem. It also contains some related resear
 
 # Math Word Problem Solvers
 * Recall and Learn: A Memory-augmented Solver for Math Word Problems, EMNLP2021 Findings,  [[paper]](https://aclanthology.org/2021.findings-emnlp.68.pdf) [[code]](https://github.com/sfeng-m/REAL4MWP) 
+* REAL2: An End-to-end Memory-augmented Solver for Math Word Problems, NIPS2021 MATHAI4ED, [[paper]](https://mathai4ed.github.io/papers/papers/paper_7.pdf)[[code]](https://github.com/sfeng-m/REAL2)
 * Improving Math Word Problems with Pre-trained Knowledge and Hierarchical Reasoning, EMNLP2021, [[paper]](https://aclanthology.org/2021.emnlp-main.272.pdf)
 * An Edge-Enhanced Hierarchical Graph-to-Tree Network for Math Word Problem Solving, EMNLP2021 Findings, [[paper]](https://aclanthology.org/2021.findings-emnlp.127.pdf) [[code]](https://github.com/qinzhuowu/EEH_G2T)
 * Generate & Rank: A Multi-task Framework for Math Word Problems, EMNLP2021 Findings, [[paper]](https://aclanthology.org/2021.findings-emnlp.195.pdf)  [[code]](https://github.com/huawei-noah/noah-research)
