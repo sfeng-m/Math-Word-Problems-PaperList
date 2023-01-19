@@ -25,6 +25,13 @@ This is a paper list for math word problem. It also contains some related resear
 # Math Word Problem Solvers
 * Recall and Learn: A Memory-augmented Solver for Math Word Problems, EMNLP2021 Findings,  [[paper]](https://aclanthology.org/2021.findings-emnlp.68.pdf) [[code]](https://github.com/sfeng-m/REAL4MWP) 
 * REAL2: An End-to-end Memory-augmented Solver for Math Word Problems, NIPS2021 MATHAI4ED, [[paper]](https://mathai4ed.github.io/papers/papers/paper_7.pdf)[[code]](https://github.com/sfeng-m/REAL2)
+* Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction, ACL2022 [[paper]](https://aclanthology.org/2022.acl-long.410.pdf)[[code]](https://github.com/allanj/Deductive-MWP)
+* LogicSolver: Towards Interpretable Math Word Problem Solving with Logical Prompt-enhanced Learning, EMNLP2022 Findings, [[paper]](https://arxiv.org/pdf/2205.08232.pdf)[[code]](https://github.com/yangzhch6/InterMWP)
+* Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem, EMNLP2022 Findings, [[paper]](https://arxiv.org/pdf/2210.11694v1.pdf)[[code]](https://github.com/zwq2018/Multi-view-Consistency-for-MWP)
+* Textual Enhanced Contrastive Learning for Solving Math Word Problems, EMNLP2022 Findings, [[paper]](https://arxiv.org/pdf/2211.16022.pdf)[[code]](https://github.com/yiyunya/Textual_CL_MWP)
+* Automatic Generation of Socratic Subquestions for Teaching Math Word Problems, EMNLP2022 Poster, [[paper]](https://arxiv.org/pdf/2211.12835.pdf)[[code]](https://github.com/eth-nlped/scaffolding-generation)
+* Structure-Unified M-Tree Coding Solver for Math Word Problem, EMNLP2022 Poster, [[paper]](https://arxiv.org/pdf/2210.12432.pdf)[[code]](https://github.com/devWangBin/SUMC-Solver)
+* Analogical Math Word Problems Solving with Enhanced Problem-Solution Association, EMNLP2022 Poster, [[paper]](https://arxiv.org/pdf/2212.00837.pdf)
 * Improving Math Word Problems with Pre-trained Knowledge and Hierarchical Reasoning, EMNLP2021, [[paper]](https://aclanthology.org/2021.emnlp-main.272.pdf)
 * An Edge-Enhanced Hierarchical Graph-to-Tree Network for Math Word Problem Solving, EMNLP2021 Findings, [[paper]](https://aclanthology.org/2021.findings-emnlp.127.pdf) [[code]](https://github.com/qinzhuowu/EEH_G2T)
 * Generate & Rank: A Multi-task Framework for Math Word Problems, EMNLP2021 Findings, [[paper]](https://aclanthology.org/2021.findings-emnlp.195.pdf)  [[code]](https://github.com/huawei-noah/noah-research)
