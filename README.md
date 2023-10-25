@@ -21,6 +21,8 @@ This is a paper list for math word problem. It also contains some related resear
 * A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers, ACL2020, [[paper]](https://arxiv.org/pdf/2106.15772.pdf) [[code]](https://github.com/chaochun/nlu-asdiv-dataset)
   * ASDiv, cover more text patterns, include 2305 problems. (English)
 
+# LLM for Math
+* https://yunpengtai.top/posts/llm-math/
 
 # Math Word Problem Solvers
 * Recall and Learn: A Memory-augmented Solver for Math Word Problems, EMNLP2021 Findings,  [[paper]](https://aclanthology.org/2021.findings-emnlp.68.pdf) [[code]](https://github.com/sfeng-m/REAL4MWP) 
